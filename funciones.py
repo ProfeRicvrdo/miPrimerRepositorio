@@ -6,3 +6,6 @@ def despedir():
 
 def hola():
     print("cualkquie cosa")
+
+def buscarPorNombre(nombre):
+    #este es un comentario xd
